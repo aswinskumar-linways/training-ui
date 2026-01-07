@@ -1,4 +1,10 @@
-node_modules/
-dist/
+# Node
+training-ui/node_modules/
+training-ui/dist/
+
+# PHP
+training-api/vendor/
+
+# Env
 .env
-.DS_Store
+
